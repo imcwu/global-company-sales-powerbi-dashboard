@@ -27,7 +27,7 @@ In this project, I created a sales report dashboard for a global company sales d
 |------|-------------|
 | `GlobalCompanySalesReport.pbix` | Power BI file |
 | `PowerBIDashboard.png` | Screenshot of the dashboard and visuals |
-| GlobalCompanySalesMockData.xlsx | Global Company Sales Mock Dataset |
+| `GlobalCompanySalesMockData.xlsx` | Global Company Sales Mock Dataset |
 
 ## 🚀 How to Use
 
