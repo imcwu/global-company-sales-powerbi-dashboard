@@ -6,6 +6,7 @@ In this project, I created a sales report dashboard for a global company sales d
  ![Pbix File](GlobalCompanySalesReport.pbix)
 
  You can also view the Excel dataset here:
+ 
  ![Dataset](GlobalCompanySalesMockData.xlsx)
  
 ## 📌 Overview
