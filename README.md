@@ -2,6 +2,7 @@
 In this project, I created a sales report dashboard for a global company sales dataset with 700 entries using the data visualization tool PowerBI, hoping to organize and visualize sales, revenue, and profit information with an interactive map.
 # 📊 Global Sales Insights – Power BI Dashboard
  You can view the PowerBI dashboard by opening the pbix file below.
+ ![Dashboard File](GlobalCompanySalesReport.pbix)
 
 ## 📌 Overview
 
@@ -25,7 +26,7 @@ In this project, I created a sales report dashboard for a global company sales d
 |------|-------------|
 | `GlobalCompanySalesReport.pbix` | Power BI file |
 | `PowerBIDashboard.png` | Screenshot of the dashboard and visuals |
-| `GlobalCompanySalesMockData.xlsx` | Global Company Sales Mock Dataset |
+| GlobalCompanySalesMockData.xlsx | Global Company Sales Mock Dataset |
 
 ## 🚀 How to Use
 
